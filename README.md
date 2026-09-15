@@ -1,5 +1,7 @@
 # Salut, je suis Florian 👋
 
+*[English version below ⬇️](#hi-im-florian-)*
+
 Développeur full-stack, je construis actuellement plusieurs applications web en solo — des SaaS accessibles jusqu'à un outil métier pour la gestion de courses canines.
 
 ## 🚧 Projets en cours
@@ -25,3 +27,35 @@ Application de gestion de courses de canicross/CaniX : chronométrage par puces 
 ## 📫 Me contacter
 
 N'hésitez pas à me contacter si vous avez une question ou une suggestion à propos de ces projets.
+
+---
+
+# Hi, I'm Florian 👋
+
+*[Version française plus haut ⬆️](#salut-je-suis-florian-)*
+
+Full-stack developer, currently building several web applications solo — from accessibility-focused SaaS products to a business tool for dog-sport race management.
+
+## 🚧 Current projects
+
+### 🌐 Terres Communes — citizen ecosystem
+Deliberative platform made up of several independent sub-projects, with centralized authentication via SSO.
+
+- **forum-terres-communes** — Deliberative forum for the commons: structured discussions, topic-based circles, nuanced reactions. Live at [forum.terrescommunes.com](https://forum.terrescommunes.com).
+- **site-terres-communes** — The ecosystem's showcase site: editorial pages, installable PWA, accessibility panel (theme + OpenDyslexic font), back-office with AI-assisted editorial summary generation, push notifications. Live at [terrescommunes.com](https://terrescommunes.com).
+
+### ♿ Inclusa
+SaaS for web accessibility (WCAG) auditing and monitoring, primarily aimed at French-speaking SMEs and nonprofits. Automated site scanning, encryption of sensitive data at rest, multi-account management with 2FA and invitations.
+
+### 🐕 WebCaniXManager
+Race management application for canicross/CaniX events: RFID chip timing, standings and trophy calculation, Excel export, multi-venue management.
+
+> These projects live in private repositories — only the production sites linked above are publicly accessible.
+
+## 🛠️ Technologies used
+
+`PHP` · `C#` · `.NET` · `Blazor` · `JavaScript` · `SQL` · `MariaDB` · `Playwright` · `PHPUnit` · `Docker` · `GitHub Actions`
+
+## 📫 Get in touch
+
+Feel free to reach out if you have a question or a suggestion about any of these projects.

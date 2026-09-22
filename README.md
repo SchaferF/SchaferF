@@ -19,7 +19,7 @@ SaaS de diagnostic et de suivi d'accessibilité web (WCAG), destiné en priorit�
 Application de gestion de courses de canicross/CaniX, hébergée on-premise : chronométrage par puces RFID, calcul de classements et trophées, export Excel, gestion multi-sites.
 
 - Interface web multilingue (français, anglais, allemand, avec variantes régionales) et thème clair/obscur, utilisable sur ordinateur, tablette ou smartphone sans aucune installation.
-- Version Desktop Windows complémentaire, installée en un clic depuis le réseau local et mise à jour automatiquement à chaque nouvelle version.
+- Version Desktop Windows complémentaire, installable en un clic depuis le réseau local, sans connexion internet requise même pour l'installation initiale.
 - Import des temps de course depuis les lecteurs de puces RFID Ipico, ou depuis un fichier Excel exporté de Ms-Sport/Wiclax.
 - Génération et téléchargement des fichiers d'inscriptions, de classements et de trophées au format Excel.
 - Gestion complète des personnes, chiens, licences, dossards, catégories, fédérations et grilles de points, avec recherche et pagination.
@@ -65,7 +65,7 @@ SaaS for web accessibility (WCAG) auditing and monitoring, primarily aimed at Fr
 Race management application for canicross/CaniX events, hosted on-premise: RFID chip timing, standings and trophy calculation, Excel export, multi-venue management.
 
 - Multilingual web interface (French, English, German, with regional variants) and light/dark theme, usable on desktop, tablet or smartphone with no installation required.
-- Companion Windows Desktop version, installed in one click from the local network and updated automatically with each new release.
+- Companion Windows Desktop version, installable in one click from the local network, with no internet connection required even for the initial install.
 - Time imports from Ipico RFID chip readers, or from an Excel file exported from Ms-Sport/Wiclax.
 - Generation and download of registration, standings and trophy files in Excel format.
 - Full management of people, dogs, licenses, bibs, categories, federations and points grids, with search and pagination.

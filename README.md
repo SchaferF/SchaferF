@@ -25,6 +25,15 @@ Application de gestion de courses de canicross/CaniX, hébergée on-premise : ch
 - Gestion complète des personnes, chiens, licences, dossards, catégories, fédérations et grilles de points, avec recherche et pagination.
 - Fonctionne entièrement en réseau local, sans connexion internet requise le jour de la course.
 
+**Fonctionnalités**
+
+- **Participants** : personnes, leurs licences et leurs chiens, et les vaccinations des chiens.
+- **Courses et trophées** : courses rattachées à des trophées, catégories par discipline, grilles de points, fédérations.
+- **Inscriptions** : contrôlées selon la catégorie (âge de la personne et des chiens, nombre de chiens, genre) et selon la limite journalière de participations avec engin roulant par chien.
+- **Chronométrage** : temps de course importés depuis les fichiers Ipico et Ms-Sport/Wiclax, et dossards importés depuis un fichier.
+- **Classements et exports** : fichiers Excel des inscriptions, des classements de course et de trophée, et des licences de la saison.
+- **Langues** : français, anglais et allemand, y compris le manuel utilisateur téléchargeable, qui suit la langue d'affichage active.
+
 <p align="center">
   <img src="assets/webcanixmanager/desktop-client.png" width="320" alt="Client Windows Desktop"/>
   <img src="assets/webcanixmanager/desktop-overview.png" width="320" alt="Vue d'ensemble de l'application (temps de course)"/>
@@ -70,6 +79,15 @@ Race management application for canicross/CaniX events, hosted on-premise: RFID 
 - Generation and download of registration, standings and trophy files in Excel format.
 - Full management of people, dogs, licenses, bibs, categories, federations and points grids, with search and pagination.
 - Runs entirely on the local network, with no internet connection required on race day.
+
+**Features**
+
+- **Participants**: people, their licenses and dogs, and the dogs' vaccinations.
+- **Races and trophies**: races attached to trophies, categories by discipline, points grids, federations.
+- **Registrations**: checked against the category (age of the person and of the dogs, number of dogs, gender) and against the daily limit of participations with a rolling equipment per dog.
+- **Timing**: race times imported from Ipico and Ms-Sport/Wiclax files, and bibs imported from a file.
+- **Rankings and exports**: Excel files of the registrations, race and trophy rankings, and the season's licenses.
+- **Languages**: French, English and German, including the downloadable user manual, which follows the active display language.
 
 <p align="center">
   <img src="assets/webcanixmanager/desktop-client.png" width="320" alt="Windows Desktop client"/>
